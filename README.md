@@ -17,7 +17,7 @@ or
 
 - If you want, add **`mutagen_FLAC.py`** file to **System Variables**.
 - Open **Terminal** and type below command.
-- You can add one flac audio file at once.
+- You can add one FLAC audio file at once.
 
 **`python mutagen_FLAC.py [flac_audio_file]`**
 
