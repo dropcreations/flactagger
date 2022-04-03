@@ -23,7 +23,7 @@ or
 
 ## **Explanation**
 
-- You can add multiple values to a tag by seperating it with a comma and a space (', ').
+- You can add multiple values to a tag by seperating it with a comma and a space (', ').<br>
 `eg : tag value 1, tag value 2, tag value 3,......`
 - When you are adding lyrics, first save lyrics to a text file.
 - Then add that text file's path when it ask.
