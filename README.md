@@ -4,7 +4,6 @@
 - ***Mutagen*** is a Python module to handle audio metadata.
 
 ## **Install Mutagen**
---------------------------
 
 - Read mutagen docs [here](https://www.fosshub.com/MKVToolNix.html).
 
