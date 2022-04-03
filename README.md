@@ -5,7 +5,7 @@
 
 ## **Install Mutagen**
 
-- Read mutagen docs [here](https://www.fosshub.com/MKVToolNix.html).
+- Read mutagen docs [here](https://mutagen.readthedocs.io/en/latest/index.html).
 
 **`python3 -m pip install mutagen`**
 
